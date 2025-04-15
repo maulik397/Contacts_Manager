@@ -1,0 +1,29 @@
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\Entities.sourcelink.json
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\ref\Entities.dll
+E:\21. Excel to Database Upload - Part 3\Entities\bin\Debug\net6.0\Entities.deps.json
+E:\21. Excel to Database Upload - Part 3\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+E:\21. Excel to Database Upload - Part 3\Entities\bin\Debug\net6.0\Entities.dll
+E:\21. Excel to Database Upload - Part 3\Entities\bin\Debug\net6.0\Entities.pdb
+E:\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+E:\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+E:\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+E:\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+E:\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\Entities.dll
+E:\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\refint\Entities.dll
+E:\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\Entities.pdb
+E:\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+E:\21. Excel to Database Upload - Part 3\Entities\obj\Debug\net6.0\ref\Entities.dll

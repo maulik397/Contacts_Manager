@@ -1,0 +1,31 @@
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\ServiceContracts\bin\Debug\net6.0\ServiceContracts.deps.json
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\ServiceContracts\bin\Debug\net6.0\ServiceContracts.dll
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\ServiceContracts\bin\Debug\net6.0\ServiceContracts.pdb
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\ServiceContracts\bin\Debug\net6.0\Entities.dll
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\ServiceContracts\bin\Debug\net6.0\Entities.pdb
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.AssemblyReference.cache
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfo.cs
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ServiceContracts.sourcelink.json
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ServiceC.04662A29.Up2Date
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ServiceContracts.dll
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\refint\ServiceContracts.dll
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ServiceContracts.pdb
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ref\ServiceContracts.dll
+E:\21. Excel to Database Upload - Part 3\ServiceContracts\bin\Debug\net6.0\ServiceContracts.deps.json
+E:\21. Excel to Database Upload - Part 3\ServiceContracts\bin\Debug\net6.0\ServiceContracts.dll
+E:\21. Excel to Database Upload - Part 3\ServiceContracts\bin\Debug\net6.0\ServiceContracts.pdb
+E:\21. Excel to Database Upload - Part 3\ServiceContracts\bin\Debug\net6.0\Entities.dll
+E:\21. Excel to Database Upload - Part 3\ServiceContracts\bin\Debug\net6.0\Entities.pdb
+E:\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.AssemblyReference.cache
+E:\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfoInputs.cache
+E:\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ServiceContracts.AssemblyInfo.cs
+E:\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ServiceContracts.csproj.CoreCompileInputs.cache
+E:\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ServiceC.04662A29.Up2Date
+E:\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ServiceContracts.dll
+E:\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\refint\ServiceContracts.dll
+E:\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ServiceContracts.pdb
+E:\21. Excel to Database Upload - Part 3\ServiceContracts\obj\Debug\net6.0\ref\ServiceContracts.dll

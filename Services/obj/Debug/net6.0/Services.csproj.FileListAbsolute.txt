@@ -1,0 +1,35 @@
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\bin\Debug\net6.0\Services.dll
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\bin\Debug\net6.0\Entities.dll
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\bin\Debug\net6.0\ServiceContracts.dll
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\bin\Debug\net6.0\ServiceContracts.pdb
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\bin\Debug\net6.0\Entities.pdb
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\Services.sourcelink.json
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\Services.csproj.Up2Date
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\Services.dll
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\mauli\AspNetCore-Harsha\AspNetCore-Harsha\17. EntityFrameworkCore\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\ref\Services.dll
+E:\21. Excel to Database Upload - Part 3\Services\bin\Debug\net6.0\Services.deps.json
+E:\21. Excel to Database Upload - Part 3\Services\bin\Debug\net6.0\Services.dll
+E:\21. Excel to Database Upload - Part 3\Services\bin\Debug\net6.0\Services.pdb
+E:\21. Excel to Database Upload - Part 3\Services\bin\Debug\net6.0\Entities.dll
+E:\21. Excel to Database Upload - Part 3\Services\bin\Debug\net6.0\ServiceContracts.dll
+E:\21. Excel to Database Upload - Part 3\Services\bin\Debug\net6.0\ServiceContracts.pdb
+E:\21. Excel to Database Upload - Part 3\Services\bin\Debug\net6.0\Entities.pdb
+E:\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\Services.csproj.Up2Date
+E:\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\Services.dll
+E:\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\refint\Services.dll
+E:\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\Services.pdb
+E:\21. Excel to Database Upload - Part 3\Services\obj\Debug\net6.0\ref\Services.dll
