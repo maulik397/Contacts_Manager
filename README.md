@@ -40,7 +40,6 @@ This is a **learning project** built using **ASP.NET Core MVC** to practice and 
 
 ### 🖥️ Home Page
 ![Home Page](https://github.com/user-attachments/assets/1b9a7fc1-b6e3-47e6-9e7d-f9cd8405c50f)
-![Home Page](assets/1b9a7fc1-b6e3-47e6-9e7d-f9cd8405c50f)
 
 
 ### 🧾 Create Person
